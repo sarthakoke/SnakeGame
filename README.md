@@ -44,8 +44,3 @@ python snake_game.py
 - 🚀 Speed increase as the snake grows
 - 🖼 Custom skins or themes
 - 🌍 Multiplayer mode (local or online)
-
----
-
-Built with Python 🐍 and Turtle ❤️.  
-Feel free to fork, improve, and share!
