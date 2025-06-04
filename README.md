@@ -1,4 +1,4 @@
-# 🐍 Classic Snake Game (Python Turtle Edition)
+# 🐍 Classic Snake Game
 
 A fun and beginner-friendly implementation of the Snake game using Python’s built-in `turtle` graphics module.
 
